@@ -1,0 +1,10 @@
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\HowMuchDoYouMake\HowMuchDoYouMake\bin\Debug\HowMuchDoYouMake.exe
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\HowMuchDoYouMake\HowMuchDoYouMake\bin\Debug\HowMuchDoYouMake.pdb
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\HowMuchDoYouMake\HowMuchDoYouMake\bin\Debug\HowMuchDoYouMake.xml
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\HowMuchDoYouMake\HowMuchDoYouMake\obj\x86\Debug\ResolveAssemblyReference.cache
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\HowMuchDoYouMake\HowMuchDoYouMake\obj\x86\Debug\ConsoleApplication1.Resources.resources
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\HowMuchDoYouMake\HowMuchDoYouMake\obj\x86\Debug\GenerateResource.read.1.tlog
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\HowMuchDoYouMake\HowMuchDoYouMake\obj\x86\Debug\GenerateResource.write.1.tlog
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\HowMuchDoYouMake\HowMuchDoYouMake\obj\x86\Debug\HowMuchDoYouMake.exe
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\HowMuchDoYouMake\HowMuchDoYouMake\obj\x86\Debug\HowMuchDoYouMake.xml
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\HowMuchDoYouMake\HowMuchDoYouMake\obj\x86\Debug\HowMuchDoYouMake.pdb

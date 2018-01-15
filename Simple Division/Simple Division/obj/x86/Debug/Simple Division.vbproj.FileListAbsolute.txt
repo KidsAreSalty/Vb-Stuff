@@ -1,0 +1,10 @@
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\Simple Division\Simple Division\bin\Debug\Simple Division.exe
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\Simple Division\Simple Division\bin\Debug\Simple Division.pdb
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\Simple Division\Simple Division\bin\Debug\Simple Division.xml
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\Simple Division\Simple Division\obj\x86\Debug\ResolveAssemblyReference.cache
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\Simple Division\Simple Division\obj\x86\Debug\ConsoleApplication1.Resources.resources
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\Simple Division\Simple Division\obj\x86\Debug\GenerateResource.read.1.tlog
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\Simple Division\Simple Division\obj\x86\Debug\GenerateResource.write.1.tlog
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\Simple Division\Simple Division\obj\x86\Debug\Simple Division.exe
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\Simple Division\Simple Division\obj\x86\Debug\Simple Division.xml
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\Simple Division\Simple Division\obj\x86\Debug\Simple Division.pdb

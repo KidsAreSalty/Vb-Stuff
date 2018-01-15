@@ -1,0 +1,10 @@
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\AverageStudents\AverageStudents\obj\x86\Debug\ResolveAssemblyReference.cache
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\AverageStudents\AverageStudents\obj\x86\Debug\ConsoleApplication1.Resources.resources
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\AverageStudents\AverageStudents\obj\x86\Debug\GenerateResource.read.1.tlog
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\AverageStudents\AverageStudents\obj\x86\Debug\GenerateResource.write.1.tlog
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\AverageStudents\AverageStudents\bin\Debug\AverageStudents.exe
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\AverageStudents\AverageStudents\bin\Debug\AverageStudents.pdb
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\AverageStudents\AverageStudents\bin\Debug\AverageStudents.xml
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\AverageStudents\AverageStudents\obj\x86\Debug\AverageStudents.exe
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\AverageStudents\AverageStudents\obj\x86\Debug\AverageStudents.xml
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\AverageStudents\AverageStudents\obj\x86\Debug\AverageStudents.pdb

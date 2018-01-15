@@ -1,0 +1,8 @@
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileAddUp\ReadFromFileAddUp\bin\Debug\ReadFromFileAddUp.exe
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileAddUp\ReadFromFileAddUp\bin\Debug\ReadFromFileAddUp.pdb
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileAddUp\ReadFromFileAddUp\bin\Debug\ReadFromFileAddUp.xml
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileAddUp\ReadFromFileAddUp\obj\x86\Debug\ConsoleApplication1.Resources.resources
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileAddUp\ReadFromFileAddUp\obj\x86\Debug\ReadFromFileAddUp.vbproj.GenerateResource.Cache
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileAddUp\ReadFromFileAddUp\obj\x86\Debug\ReadFromFileAddUp.exe
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileAddUp\ReadFromFileAddUp\obj\x86\Debug\ReadFromFileAddUp.xml
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileAddUp\ReadFromFileAddUp\obj\x86\Debug\ReadFromFileAddUp.pdb

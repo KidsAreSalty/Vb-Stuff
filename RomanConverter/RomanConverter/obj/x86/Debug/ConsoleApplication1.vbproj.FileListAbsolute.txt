@@ -1,0 +1,4 @@
+C:\Users\166403.GODALMING.002\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\166403.GODALMING.002\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\166403.GODALMING.002\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\166403.GODALMING.002\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\GenerateResource.write.1.tlog

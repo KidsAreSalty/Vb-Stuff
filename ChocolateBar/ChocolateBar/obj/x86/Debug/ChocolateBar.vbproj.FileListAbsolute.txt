@@ -1,0 +1,8 @@
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\ChocolateBar\ChocolateBar\bin\Debug\ChocolateBar.exe
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\ChocolateBar\ChocolateBar\bin\Debug\ChocolateBar.pdb
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\ChocolateBar\ChocolateBar\bin\Debug\ChocolateBar.xml
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\ChocolateBar\ChocolateBar\obj\x86\Debug\ConsoleApplication1.Resources.resources
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\ChocolateBar\ChocolateBar\obj\x86\Debug\ChocolateBar.vbproj.GenerateResource.Cache
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\ChocolateBar\ChocolateBar\obj\x86\Debug\ChocolateBar.exe
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\ChocolateBar\ChocolateBar\obj\x86\Debug\ChocolateBar.xml
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\ChocolateBar\ChocolateBar\obj\x86\Debug\ChocolateBar.pdb

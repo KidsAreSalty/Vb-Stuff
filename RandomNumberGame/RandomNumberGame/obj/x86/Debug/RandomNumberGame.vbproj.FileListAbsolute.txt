@@ -1,0 +1,8 @@
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\RandomNumberGame\RandomNumberGame\bin\Debug\RandomNumberGame.exe
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\RandomNumberGame\RandomNumberGame\bin\Debug\RandomNumberGame.pdb
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\RandomNumberGame\RandomNumberGame\bin\Debug\RandomNumberGame.xml
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\RandomNumberGame\RandomNumberGame\obj\x86\Debug\ConsoleApplication1.Resources.resources
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\RandomNumberGame\RandomNumberGame\obj\x86\Debug\RandomNumberGame.vbproj.GenerateResource.Cache
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\RandomNumberGame\RandomNumberGame\obj\x86\Debug\RandomNumberGame.exe
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\RandomNumberGame\RandomNumberGame\obj\x86\Debug\RandomNumberGame.xml
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\RandomNumberGame\RandomNumberGame\obj\x86\Debug\RandomNumberGame.pdb

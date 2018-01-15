@@ -1,0 +1,8 @@
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileAllAddUp\ReadFromFileAllAddUp\obj\x86\Debug\ConsoleApplication1.Resources.resources
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileAllAddUp\ReadFromFileAllAddUp\obj\x86\Debug\ReadFromFileAllAddUp.vbproj.GenerateResource.Cache
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileAllAddUp\ReadFromFileAllAddUp\bin\Debug\ReadFromFileAllAddUp.exe
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileAllAddUp\ReadFromFileAllAddUp\bin\Debug\ReadFromFileAllAddUp.pdb
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileAllAddUp\ReadFromFileAllAddUp\bin\Debug\ReadFromFileAllAddUp.xml
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileAllAddUp\ReadFromFileAllAddUp\obj\x86\Debug\ReadFromFileAllAddUp.exe
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileAllAddUp\ReadFromFileAllAddUp\obj\x86\Debug\ReadFromFileAllAddUp.xml
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileAllAddUp\ReadFromFileAllAddUp\obj\x86\Debug\ReadFromFileAllAddUp.pdb

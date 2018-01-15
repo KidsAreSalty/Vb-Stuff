@@ -1,0 +1,8 @@
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileWithComma\ReadFromFileWithComma\bin\Debug\ReadFromFileWithComma.exe
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileWithComma\ReadFromFileWithComma\bin\Debug\ReadFromFileWithComma.pdb
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileWithComma\ReadFromFileWithComma\bin\Debug\ReadFromFileWithComma.xml
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileWithComma\ReadFromFileWithComma\obj\x86\Debug\ConsoleApplication1.Resources.resources
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileWithComma\ReadFromFileWithComma\obj\x86\Debug\ReadFromFileWithComma.vbproj.GenerateResource.Cache
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileWithComma\ReadFromFileWithComma\obj\x86\Debug\ReadFromFileWithComma.exe
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileWithComma\ReadFromFileWithComma\obj\x86\Debug\ReadFromFileWithComma.xml
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ReadFromFileWithComma\ReadFromFileWithComma\obj\x86\Debug\ReadFromFileWithComma.pdb

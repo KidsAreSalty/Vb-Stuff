@@ -1,0 +1,8 @@
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\WriteToFile\WriteToFile\bin\Debug\WriteToFile.exe
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\WriteToFile\WriteToFile\bin\Debug\WriteToFile.pdb
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\WriteToFile\WriteToFile\bin\Debug\WriteToFile.xml
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\WriteToFile\WriteToFile\obj\x86\Debug\ConsoleApplication1.Resources.resources
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\WriteToFile\WriteToFile\obj\x86\Debug\WriteToFile.vbproj.GenerateResource.Cache
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\WriteToFile\WriteToFile\obj\x86\Debug\WriteToFile.exe
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\WriteToFile\WriteToFile\obj\x86\Debug\WriteToFile.xml
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\WriteToFile\WriteToFile\obj\x86\Debug\WriteToFile.pdb

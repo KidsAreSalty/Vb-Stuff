@@ -1,0 +1,8 @@
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\Arithmetic  series\Arithmetic  series\bin\Debug\Arithmetic  series.exe
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\Arithmetic  series\Arithmetic  series\bin\Debug\Arithmetic  series.pdb
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\Arithmetic  series\Arithmetic  series\bin\Debug\Arithmetic  series.xml
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\Arithmetic  series\Arithmetic  series\obj\x86\Debug\ConsoleApplication1.Resources.resources
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\Arithmetic  series\Arithmetic  series\obj\x86\Debug\Arithmetic  series.vbproj.GenerateResource.Cache
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\Arithmetic  series\Arithmetic  series\obj\x86\Debug\Arithmetic  series.exe
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\Arithmetic  series\Arithmetic  series\obj\x86\Debug\Arithmetic  series.xml
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\Arithmetic  series\Arithmetic  series\obj\x86\Debug\Arithmetic  series.pdb

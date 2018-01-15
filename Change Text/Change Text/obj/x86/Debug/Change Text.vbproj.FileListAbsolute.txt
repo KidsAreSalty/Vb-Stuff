@@ -1,0 +1,8 @@
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\Change Text\Change Text\obj\x86\Debug\ConsoleApplication1.Resources.resources
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\Change Text\Change Text\obj\x86\Debug\Change Text.vbproj.GenerateResource.Cache
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\Change Text\Change Text\bin\Debug\Change Text.exe
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\Change Text\Change Text\bin\Debug\Change Text.pdb
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\Change Text\Change Text\bin\Debug\Change Text.xml
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\Change Text\Change Text\obj\x86\Debug\Change Text.exe
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\Change Text\Change Text\obj\x86\Debug\Change Text.xml
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\Change Text\Change Text\obj\x86\Debug\Change Text.pdb

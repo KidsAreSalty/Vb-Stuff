@@ -1,0 +1,10 @@
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.xml
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication1.Resources.resources
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.xml
+\\godalming.ac.uk\dfs\userareas\students\166403\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
