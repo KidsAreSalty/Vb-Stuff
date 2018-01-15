@@ -1,0 +1,10 @@
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\CostOfSweets\CostOfSweets\obj\x86\Debug\ResolveAssemblyReference.cache
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\CostOfSweets\CostOfSweets\obj\x86\Debug\ConsoleApplication1.Resources.resources
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\CostOfSweets\CostOfSweets\obj\x86\Debug\GenerateResource.read.1.tlog
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\CostOfSweets\CostOfSweets\obj\x86\Debug\GenerateResource.write.1.tlog
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\CostOfSweets\CostOfSweets\bin\Debug\CostOfSweets.exe
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\CostOfSweets\CostOfSweets\bin\Debug\CostOfSweets.pdb
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\CostOfSweets\CostOfSweets\bin\Debug\CostOfSweets.xml
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\CostOfSweets\CostOfSweets\obj\x86\Debug\CostOfSweets.exe
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\CostOfSweets\CostOfSweets\obj\x86\Debug\CostOfSweets.xml
+\\godalming.ac.uk\dfs\UserAreas\Students\166403\Visual Studio 2010\Projects\CostOfSweets\CostOfSweets\obj\x86\Debug\CostOfSweets.pdb
